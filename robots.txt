@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /assets/js
+Disallow: /inc
+Disallow: /template
+
+Sitemap: https://www.sitecentre.com.au/sitemap.xml
