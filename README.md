@@ -4,5 +4,5 @@ core-template used for creating standard - non-cms based websites. Complete with
 # Current Build
 The current build is nothing more than a simple PHP based templated script with performance in mind. Basic Schema markup has been added for Organisation, LocalBusiness, Website, WebPage, Service. More to come soon. 
 
-#Coming Soon
+# Coming Soon
 Flexible Dynamic build from Development server to live with 0 downtime. Domain name or subfolder changes are no longer a problem. No matter your industry, schema will be generated flawlessly, and code will adjust to provide you with ultimate simplicity of implementation - Regardless of your level of knowledge.
