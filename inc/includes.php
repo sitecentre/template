@@ -29,7 +29,6 @@ class template {
 	    global $cdn;
 	    
 		require_once 'template/footer.php';
-		require_once 'template/modules.php';
 	}
 
 	function javascript() {
