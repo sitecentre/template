@@ -44,6 +44,3 @@
         gtag('js', new Date());
         gtag('config', 'UA-');
     </script>
-
-    <!-- Schema Install -->
-    <?php require 'schema.php'; ?>
