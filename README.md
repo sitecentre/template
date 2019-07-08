@@ -1,4 +1,4 @@
-# sitecentre template - V1.1
+# sitecentre template - v1.1
 core-template used for creating standard - non-cms based websites. Complete with base Schema Markup, DNS Prefetch and Templating. We're aiming to have the most well-optimised SEO template world-wide. We will be building this up into a full CMS purely around performance, and SEO in mind.
 
 # Current Build
