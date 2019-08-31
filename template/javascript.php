@@ -1,3 +1,4 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="<?php echo $cdn . '/assets/js/main.js'; ?>" type="text/javascript"></script>
+<script src="{{cdn}}/assets/js/jquery-3.4.1.min.js" type="text/javascript"></script>
+<script src="{{cdn}}/assets/js/bootstrap-4.3.1.min.js" type="text/javascript"></script>
+<script defer async src="{{cdn}}/assets/js/lazyload.min.js" type="text/javascript"></script>
+<script defer async src="{{cdn}}/assets/js/main.min.js" type="text/javascript"></script>
